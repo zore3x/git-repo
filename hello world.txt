@@ -1,6 +1,7 @@
-"print("Hello world");
-print("hello");
-print("good bye");
-print("good morning")
-print("hello my dear friend")
-pring("glad to see you")
+"print("Hello world;");
+print("hello;");
+print("good bye;");
+print("good morning;");
+print("hello my dear friend;")
+pring("glad to see you;")
+
